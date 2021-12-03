@@ -1,0 +1,30 @@
+.div{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 110px;
+  
+}
+.auth{
+    position: relative;
+    top: 70px;
+    left: 20px;
+    padding: 7px;
+    padding-left: 15px;
+    width: 300px;
+    box-shadow: 5px 5px 5px 5px tomato;
+    margin-left: 10px;
+}
+.pic{
+    padding: 5px;
+    box-shadow: 5px 5px 5px 5px tomato;
+}
+.member{
+    position: relative;
+    top: -30px;
+    left: 100px;
+}
+.google{
+    position: relative;
+    top: 60px;
+}
